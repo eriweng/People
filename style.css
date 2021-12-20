@@ -1,0 +1,14 @@
+html,body {
+  font-family: 'Roboto Mono', monospace;
+  }
+body {
+background-color:gray;;
+  }
+.card-title-region,.card-title-name,.card-title-gender,.card-title-age {
+  margin: 5px 10px;
+  letter-spacing: 1px;
+}
+
+.pagination li {
+  border-color: black;
+}
